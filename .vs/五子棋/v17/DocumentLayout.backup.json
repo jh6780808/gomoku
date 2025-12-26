@@ -1,0 +1,59 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u6C5F\u6DB5\\Desktop\\C\u8BED\u8A00\u8BFE\\\u4E94\u5B50\u68CB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A82632FC-8597-4137-88B4-E7AB0BF58888}|\u4E94\u5B50\u68CB.vcxproj|C:\\Users\\\u6C5F\u6DB5\\Desktop\\C\u8BED\u8A00\u8BFE\\\u4E94\u5B50\u68CB\\\u4E94\u5B50\u68CB.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A82632FC-8597-4137-88B4-E7AB0BF58888}|\u4E94\u5B50\u68CB.vcxproj|solutionrelative:\u4E94\u5B50\u68CB.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Windows Kits\\\u4E94\u5B50\u68CB.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u4E94\u5B50\u68CB.cpp",
+              "DocumentMoniker": "D:\\Windows Kits\\\u4E94\u5B50\u68CB.cpp",
+              "ToolTip": "D:\\Windows Kits\\\u4E94\u5B50\u68CB.cpp",
+              "ViewState": "AgIAAAgBAAAAAAAAAAAAAAsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-25T13:57:46.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u4E94\u5B50\u68CB.cpp",
+              "DocumentMoniker": "C:\\Users\\\u6C5F\u6DB5\\Desktop\\C\u8BED\u8A00\u8BFE\\\u4E94\u5B50\u68CB\\\u4E94\u5B50\u68CB.cpp",
+              "RelativeDocumentMoniker": "\u4E94\u5B50\u68CB.cpp",
+              "ToolTip": "C:\\Users\\\u6C5F\u6DB5\\Desktop\\C\u8BED\u8A00\u8BFE\\\u4E94\u5B50\u68CB\\\u4E94\u5B50\u68CB.cpp",
+              "RelativeToolTip": "\u4E94\u5B50\u68CB.cpp",
+              "ViewState": "AgIAAOMAAAAAAAAAAAAqwP0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-16T01:02:12.041Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
